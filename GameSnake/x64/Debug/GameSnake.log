@@ -1,0 +1,20 @@
+﻿GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ attrset в функции "void __cdecl move_snake(struct vector2di &,struct vector2di &,class std::vector<struct vector2di,class std::allocator<struct vector2di> > &,struct vector2di &,struct vector2di,int &)" (?move_snake@@YAXAEAUvector2di@@0AEAV?$vector@Uvector2di@@V?$allocator@Uvector2di@@@std@@@std@@0U1@AEAH@Z).
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ bkgd в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ clear в функции "void __cdecl show_map(struct vector2di const &,int const &)" (?show_map@@YAXAEBUvector2di@@AEBH@Z).
+    Указание на символы, которые определены и могут подойти:
+      "public: void __cdecl std::vector<struct vector2di,class std::allocator<struct vector2di> >::clear(void)" (?clear@?$vector@Uvector2di@@V?$allocator@Uvector2di@@@std@@@std@@QEAAXXZ)
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ curs_set в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ endwin в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ init_pair в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ initscr в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ keypad в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ move в функции "void __cdecl move_snake(struct vector2di &,struct vector2di &,class std::vector<struct vector2di,class std::allocator<struct vector2di> > &,struct vector2di &,struct vector2di,int &)" (?move_snake@@YAXAEAUvector2di@@0AEAV?$vector@Uvector2di@@V?$allocator@Uvector2di@@@std@@@std@@0U1@AEAH@Z).
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ noecho в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ printw в функции "void __cdecl move_snake(struct vector2di &,struct vector2di &,class std::vector<struct vector2di,class std::allocator<struct vector2di> > &,struct vector2di &,struct vector2di,int &)" (?move_snake@@YAXAEAUvector2di@@0AEAV?$vector@Uvector2di@@V?$allocator@Uvector2di@@@std@@@std@@0U1@AEAH@Z).
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ start_color в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ timeout в функции main.
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ wgetch в функции "void __cdecl move_snake(struct vector2di &,struct vector2di &,class std::vector<struct vector2di,class std::allocator<struct vector2di> > &,struct vector2di &,struct vector2di,int &)" (?move_snake@@YAXAEAUvector2di@@0AEAV?$vector@Uvector2di@@V?$allocator@Uvector2di@@@std@@@std@@0U1@AEAH@Z).
+GameSnake.obj : error LNK2019: ссылка на неразрешенный внешний символ winch в функции "void __cdecl move_snake(struct vector2di &,struct vector2di &,class std::vector<struct vector2di,class std::allocator<struct vector2di> > &,struct vector2di &,struct vector2di,int &)" (?move_snake@@YAXAEAUvector2di@@0AEAV?$vector@Uvector2di@@V?$allocator@Uvector2di@@@std@@@std@@0U1@AEAH@Z).
+GameSnake.obj : error LNK2001: неразрешенный внешний символ stdscr.
+C:\Ggvp\GameSnake\pdcurses\pdcurses.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Ggvp\GameSnake\x64\Debug\GameSnake.exe : fatal error LNK1120: неразрешенных внешних элементов: 16
