@@ -1,0 +1,3 @@
+﻿  Server.cpp
+C:\Ggvp\ClientServers\ClientServers\Server.cpp(80,7): warning C4101: buffer: неиспользованная локальная переменная
+  ClientServers.vcxproj -> C:\Ggvp\ClientServers\x64\Debug\Server.exe
