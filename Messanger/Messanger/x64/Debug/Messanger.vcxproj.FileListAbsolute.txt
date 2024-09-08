@@ -1,0 +1,2 @@
+C:\Ggvp\Messanger\Messanger\x64\Debug\Messanger.vcxproj.AssemblyReference.cache
+C:\Ggvp\Messanger\Messanger\x64\Debug\Messanger.vcxproj.SuggestedBindingRedirects.cache
